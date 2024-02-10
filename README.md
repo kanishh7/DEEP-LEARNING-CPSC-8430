@@ -12,7 +12,6 @@ HW 1 PART 2 LINK - https://github.com/kanishh7/DEEP-LEARNING-CPSC-8430/blob/main
 HW 1 PART 3 LINK - https://github.com/kanishh7/DEEP-LEARNING-CPSC-8430/blob/main/HW1_3%20(2).ipynb
 
 HW 1 BONUS : https://github.com/kanishh7/DEEP-LEARNING-CPSC-8430/blob/main/hw_1_3_bonus%20(1).ipynb
-             
              https://github.com/kanishh7/DEEP-LEARNING-CPSC-8430/blob/main/HW_1_3_bonus2.ipynb
 
 
