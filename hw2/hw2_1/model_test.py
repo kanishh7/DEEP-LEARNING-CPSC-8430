@@ -7,7 +7,7 @@ from bleu_eval import BLEU
 import pickle
 
 # Load the pre-trained model
-model = torch.load('SavedModel/modelkanishh.h5', map_location=lambda storage, loc: storage)
+model = torch.load('SavedModel/modelkanish.h5', map_location=lambda storage, loc: storage)
 
 # Set the file path for the testing data and create a DataLoader
 filepath = 'MLDS_hw2_1_data/testing_data/feat'
