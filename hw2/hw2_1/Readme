@@ -1,1 +1,13 @@
+How to run the code:
+I used palmetto, so i suggest using the same. 
+First clone the repo and transfer all the files to palmetto home section
+And then also make sure the dataset is present in the home section so that we can use the testing videos.
+And make sure the saved model modelkanish.h is in the folder where we have the saved models because it takes 60 mins+ to train a new model.
+Now run the sh file using the following command and you will get the bleu score as the output and a text file op will be created 
+./hw2_seq2seq.sh
+in case it says permission denied or something similar to that 
+Please use the following command first before running the sh file 
+chmod +x hw2_seq2seq.sh
+
+Also note that depending on where you run the code and how you run it you might have to make changes to argument 1 and argument 2 in the sh file and also make changes to the dataset path and model path in the model_test and model_train python files.
 
