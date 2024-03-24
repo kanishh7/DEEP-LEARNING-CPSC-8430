@@ -4,7 +4,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 from transformers import BertModel, BertTokenizerFast, AdamW
 from torch.utils.data import Dataset, DataLoader
-from torch.optim.lr_scheduler import ExponentialLR
 from evaluate import load
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
